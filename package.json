@@ -1,0 +1,31 @@
+{
+  "name": "doorman-greeter",
+  "version": "0.1.0",
+  "description": "Automatically welcome new users to your community with Doorman, the bot framework for Matrix, Discord, and Slack.",
+  "main": "lib/greeter.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martindale/doorman-greeter.git"
+  },
+  "keywords": [
+    "doorman",
+    "community",
+    "bot",
+    "chatbot",
+    "matrix",
+    "slack",
+    "discord"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/doorman-greeter/issues"
+  },
+  "homepage": "https://github.com/martindale/doorman-greeter#readme"
+}
